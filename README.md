@@ -65,11 +65,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
