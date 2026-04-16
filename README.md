@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0496-next-greater-element-i](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0907-sum-of-subarray-minimums](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1470-shuffle-the-array](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
