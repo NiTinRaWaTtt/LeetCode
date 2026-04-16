@@ -8,15 +8,15 @@ public:
 
             while (!st.empty() && a < 0 && st.back() > 0) {
                 if (abs(a) > st.back()) {
-                    st.pop_back(); // stack asteroid destroyed
+                    st.pop_back(); 
                 }
                 else if (abs(a) == st.back()) {
-                    st.pop_back(); // both destroyed
+                    st.pop_back(); 
                     destroyed = true;
                     break;
                 }
                 else {
-                    destroyed = true; // current asteroid destroyed
+                    destroyed = true; 
                     break;
                 }
             }
