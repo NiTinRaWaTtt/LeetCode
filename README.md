@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0402-remove-k-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
