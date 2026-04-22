@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0496-next-greater-element-i) |
 ## String
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Monotonic Queue
 |  |
