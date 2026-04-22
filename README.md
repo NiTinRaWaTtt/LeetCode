@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0239-sliding-window-maximum](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0234-palindrome-linked-list) |
