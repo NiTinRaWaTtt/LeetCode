@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0907-sum-of-subarray-minimums](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [1004-max-consecutive-ones-iii](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1470-shuffle-the-array](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2104-sum-of-subarray-ranges](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
 | ------- |
@@ -167,8 +169,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [1004-max-consecutive-ones-iii](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
