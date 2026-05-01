@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0239-sliding-window-maximum](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0455-assign-cookies](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0704-binary-search) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -224,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/NiTinRaWaTtt/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
